@@ -1,0 +1,6 @@
+[submodule "MoviePlatform_Backend"]
+	path = MoviePlatform_Backend
+	url = https://github.com/davidmubernal/MoviePlatform_Backend.git
+[submodule "MoviePlatform_Frontend"]
+	path = MoviePlatform_Frontend
+	url = https://github.com/davidmubernal/MoviePlatform_Frontend.git

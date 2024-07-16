@@ -1,0 +1,10 @@
+show dbs
+db.movies.find()
+show collections
+use MoviePlatform
+show dbs
+db.movies.find()
+show dbs
+db.movies.insertOne({title:'Deadpool y Lobezno', director:'Shawn Levy', year:'2024', score:'5'})
+db
+use MoviePlatform

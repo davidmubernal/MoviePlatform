@@ -1,0 +1,102 @@
+<mxfile host="app.diagrams.net" modified="2024-07-14T19:16:21.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="kYl45IPWxhpp4F0M2zdQ" version="24.6.4" type="device">
+  <diagram name="Página-1" id="IlpbxyGbbb0B5hiPCYjF">
+    <mxGraphModel dx="691" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PiMotsnrXO_9qTrlCicK-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-5" value="Title" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-6" value="Director" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="250" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-7" value="Year" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="240" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-10" value="Title" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="330" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-11" value="La asombrosa película de la vida" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="330" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-12" value="Title" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;fontColor=#4F4F4F;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-13" value="Director" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="360" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-14" value="Cuenting Tarantino" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="360" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-15" value="Director" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;fontColor=#4F4F4F;" vertex="1" parent="1">
+          <mxGeometry x="300" y="350" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-16" value="Year" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="390" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="420" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PiMotsnrXO_9qTrlCicK-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-19" value="Preview image" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="450" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-21" value="2024" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="390" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-22" value="Year" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;fontColor=#4F4F4F;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-27" value="Sacar cuadro de importar imagen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="445" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="1">
+          <mxGeometry x="70" y="420" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="1">
+          <mxGeometry x="100" y="420" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="1">
+          <mxGeometry x="130" y="420" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="1">
+          <mxGeometry x="160" y="420" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="1">
+          <mxGeometry x="190" y="420" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="420" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillColor=#FFCD00;" vertex="1" parent="1">
+          <mxGeometry x="310" y="420" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-35" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star;fillStyle=solid;fillColor=#FFCD00;" vertex="1" parent="1">
+          <mxGeometry x="340" y="420" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="1">
+          <mxGeometry x="370" y="420" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-37" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="1">
+          <mxGeometry x="400" y="420" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PiMotsnrXO_9qTrlCicK-38" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.star" vertex="1" parent="1">
+          <mxGeometry x="430" y="420" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
